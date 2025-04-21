@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **Hailam2104/Hailam2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,79 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">
+  Hi there 👋, I'm Duong Hai Lam 
+</h1>
+
+<blockquote>
+ <p align="center">
+   “I’m constantly learning, building, and solving - and I love every moment of it.”
+ </p>
+</blockquote>
+
+<p align="center">
+  <strong>
+    🎯 Software Engineer | 💻 Backend-Focused Fullstack Developer | 🌐 Passionate about Networks, Security, OS, DSA
+  </strong>
+</p>
+
+---
+
+I'm currently pursuing a Bachelor's degree in Computer Science at **Ho Chi Minh City University of Technology (HCMUT)**. With a strong academic foundation **(GPA: 3.9/4.0)**, I'm always working to level up both my theoretical knowledge and practical skills. I love building things, solving complex problems, and learning from every experience.
+
+-   📄 Know about my experiences [My resume](https://drive.google.com/file/d/1Y5x7UTZdU98Oa9dQ9CNNBpbgAkltQIB0/view?usp=sharing)
+
+## 🔧 Tech Stack
+
+### Programming Languages:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Frameworks & Tools:
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+## 📚 Current Education
+
+**🎓 Ho Chi Minh City University of Technology (HCMUT)**  
+_Bachelor of Computer Science (Oct 2022 - Present)_
+
+-   GPA: 3.9 / 4.0
+-   TOEIC: 895 (Reading & Listening)
+-   University scholarships for academic excellence in:
+    -   Semester 1 (221): 4.0 / 4.0.
+    -   Semester 2 (222): 3.7 / 4.0.
+    -   Semester 3 (231): 3.9 / 3.0.
+    -   Semester 4 (232): 4.0 / 4.0.
+
+## 📫 Connect with Me
+
+<!-- -   ✉️ Email: [lam.duong210425@hcmut.edu.vn](mailto:lam.duong210425@hcmut.edu.vn)
+-   🔗 LinkedIn: [lam2104](https://www.linkedin.com/in/lam2104)
+-   💻 GitHub: [Hailam2104](https://github.com/Hailam2104) -->
+
+<a href="https://www.linkedin.com/in/lam2104"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:lam.duong210425@hcmut.edu.vn"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
+&nbsp; &nbsp;
+
+## 📊 GitHub Stats
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hailam2104&show_icons=true&locale=en" alt="Hailam2104" /></p>
+
