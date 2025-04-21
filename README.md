@@ -81,10 +81,9 @@ _Bachelor of Computer Science (Oct 2022 - Present)_
 -   🔗 LinkedIn: [lam2104](https://www.linkedin.com/in/lam2104)
 -   💻 GitHub: [Hailam2104](https://github.com/Hailam2104) -->
 
-<a href="https://www.linkedin.com/in/lam2104"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-&nbsp; &nbsp;
-<a href="mailto:lam.duong210425@hcmut.edu.vn"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
-&nbsp; &nbsp;
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Hailam2104)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lam2104)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lam.duong210425@hcmut.edu.vn)
 
 ## 📊 GitHub Stats
 
