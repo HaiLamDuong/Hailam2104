@@ -74,6 +74,7 @@ _Bachelor of Computer Science (Oct 2022 - Present)_
     -   Semester 2 (222): 3.7 / 4.0.
     -   Semester 3 (231): 3.9 / 3.0.
     -   Semester 4 (232): 4.0 / 4.0.
+    -   Semester 5 (241): 4.0 / 4.0.
 
 ## 📫 Connect with Me
 
@@ -81,11 +82,11 @@ _Bachelor of Computer Science (Oct 2022 - Present)_
 -   🔗 LinkedIn: [lam2104](https://www.linkedin.com/in/lam2104)
 -   💻 GitHub: [Hailam2104](https://github.com/Hailam2104) -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Hailam2104)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HaiLamDuong)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lam2104)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lam.duong210425@hcmut.edu.vn)
 
 ## 📊 GitHub Stats
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hailam2104&show_icons=true&locale=en" alt="Hailam2104" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HaiLamDuong&show_icons=true&locale=en" alt="HaiLamDuong" /></p>
 
