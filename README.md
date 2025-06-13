@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <strong>
-    🎯 Software Engineer | 💻 Backend-Focused Fullstack Developer | 🌐 Passionate about Networks, Security, OS, DSA
+    🎯 Software Engineer | 💻 Backend-Focused Fullstack Developer | 🌐 Passionate about Networks, OS, DSA
   </strong>
 </p>
 
