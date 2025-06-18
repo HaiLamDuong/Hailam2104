@@ -69,12 +69,6 @@ _Bachelor of Computer Science (Oct 2022 - Present)_
 
 -   GPA: 3.9 / 4.0
 -   TOEIC: 895 (Reading & Listening)
--   University scholarships for academic excellence in:
-    -   Semester 1 (221): 4.0 / 4.0.
-    -   Semester 2 (222): 3.7 / 4.0.
-    -   Semester 3 (231): 3.9 / 3.0.
-    -   Semester 4 (232): 4.0 / 4.0.
-    -   Semester 5 (241): 4.0 / 4.0.
 
 ## 📫 Connect with Me
 
